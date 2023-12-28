@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tortoise-orm[asyncpg]
+pydantic
+pydantic_extra_types
+phonenumbers
+anyio
